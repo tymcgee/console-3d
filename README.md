@@ -2,7 +2,7 @@
 3D rendering in a console window
 
 # Example
-![demonstration](ico-demo.gif)
+https://user-images.githubusercontent.com/99392600/170609608-13250a9f-e0aa-48d3-8c67-0e75ffcf004a.mp4
 
 # Notes
 Like my other 3D project [here](https://github.com/tymcgee/3d-render), this project was heavily inspired by parts of the video series by javid9x [here](https://youtu.be/ih20l3pJoeU). While I didn't _completely_ copy his code, I figure it's safe for me to attribute it here [(part 1)](https://github.com/OneLoneCoder/videos/blob/master/OneLoneCoder_olcEngine3D_Part1.cpp) and here [(part 2)](https://github.com/OneLoneCoder/videos/blob/master/OneLoneCoder_olcEngine3D_Part2.cpp).
