@@ -16,12 +16,11 @@ After a while I decided I wanted to do a similar thing but in the console, becau
 While doing this project, I learned
 - A lot more details about how 3D perspective projection works (although I'm sure I still don't fully understand it)
 - How to use `ncurses` to write stuff to a console window
-- And much more, I'm sure!
 
 I don't expect to revisit this unless it would be to fix the annoying bug that the width scaling isn't quite right, but I don't really know how to fix that and I'm out of motivation to try. On a 1920x1080 screen with the console taking up the full screen, the scaling should be just about right.
 
 # Requirements
-On Linux this should run out of the box, but it takes advantage of `ncurses`, so on Windows you need an `ncurses` clone like `windows-curses`:
+On Linux this should run out of the box. On Windows you need an `ncurses` clone like `windows-curses`:
 ```
 pip install windows-curses
 ```
